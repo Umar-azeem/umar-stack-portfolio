@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 export default function Main() {
   return (
-    <div className="max-w-6xl mx-auto px-4 my-0 lg:my-10">
+    <div className="max-w-6xl mx-auto p-4 my-0 lg:my-10">
       <main className="mt-20 sm:mt-28">
         <section>
           <motion.div

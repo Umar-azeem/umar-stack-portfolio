@@ -8,7 +8,7 @@ import {
 } from "../../public/assets/icons/icons";
 export default function Conpage() {
   return (
-    <section>
+    <section className="w-full h-auto flex  justify-end">
       <div className="container m-auto flex justify-between px-4 py-6 mt-5">
         <div>
           <p className="text-gray-300 text-sm mr-16">Copyright @ 2024</p>
