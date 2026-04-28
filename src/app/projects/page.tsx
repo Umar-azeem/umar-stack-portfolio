@@ -42,6 +42,15 @@ const data = [
   },
   { 
     id: 5, 
+    name: "riphah International Bhalwal",
+    image: "/assets/imag/comth.png",
+    description: "A responsive comment section component with real-time updates and user interactions.",
+    live: "https://riphahinternationalbhalwal.vercel.app/",
+    github: "https://github.com/Umar-azeem/comment-sections",
+    techStack: ["React", "Comments", "Real-time"],
+  },
+  { 
+    id: 6, 
     name: "Kanban Board",
     image: "/assets/imag/kb.png",
     description: "A Kanban app to organize tasks visually with drag-and-drop support for better workflow management.",
@@ -49,9 +58,8 @@ const data = [
     github: "https://github.com/Umar-azeem/invoices.git",
     techStack: ["React", "Drag & Drop", "Tailwind"],
   },
- 
   { 
-    id: 6,
+    id: 7,
     name: "Invoices App",
     image: "/assets/imag/in.png",
     description: "Streamline billing with dynamic forms and real-time calculations for professional invoicing.",
@@ -60,7 +68,7 @@ const data = [
     techStack: ["React", "Forms", "Calculations"],
   },
   { 
-    id: 7, 
+    id: 8, 
     name: "MobApp Landing",
     image: "/assets/imag/mob.png",
     description: "A responsive Mobile App Landing Page with fully functional components and optimized JavaScript logic.",
@@ -68,15 +76,7 @@ const data = [
     github: "https://github.com/Umar-azeem/mobresponsiveapp.github.io.git",
     techStack: ["React", "Tailwind", "SCSS"],
   },
-  // { 
-  //   id: 6, 
-  //   name: "Comment Sections",
-  //   image: "/assets/imag/comt.png",
-  //   description: "A responsive comment section component with real-time updates and user interactions.",
-  //   live: "https://comment-sections.netlify.app/",
-  //   github: "https://github.com/Umar-azeem/comment-sections",
-  //   techStack: ["React", "Comments", "Real-time"],
-  // },
+  
   //  { 
   //   id: 6, 
   //   name: "Devlink",
